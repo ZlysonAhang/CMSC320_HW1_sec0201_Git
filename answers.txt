@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be used in marketing. For example, by analyzing sales data and customer demographics, the marketing team can better understand their target users, which helps them create targeted advertising campaigns for their products.
 
+Q4: What are you looking forward to this semester?
+
+Answer:I'm looking forward to learning more about data science and data analytics in a practical setting, especially a more systemic structure to learn SQL and Python.
