@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is perfect for working in a team because it allows multiple people to work in separate branches without affecting the main branch. Each change is tracked through commits, which include the author and timestamp, making it easy to review history. Git also enables collaboration and backup through platforms like GitHub, allowing teammates to share, sync, and merge work efficiently.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used in marketing. For example, by analyzing sales data and customer demographics, the marketing team can better understand their target users, which helps them create targeted advertising campaigns for their products.
+
