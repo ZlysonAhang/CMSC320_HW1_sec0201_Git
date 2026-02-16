@@ -9,3 +9,9 @@ Answer: Data science can be used in marketing. For example, by analyzing sales d
 Q4: What are you looking forward to this semester?
 
 Answer:I'm looking forward to learning more about data science and data analytics in a practical setting, especially a more systemic structure to learn SQL and Python.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: When there are commits from multiple branches, merge keeps both histories as they are and combines them with a merge commit, without rewriting history.
+In contrast, rebase rewrites the feature branch by replaying its commits on top of the latest main branch, creating a cleaner, linear history.
+
